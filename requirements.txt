@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+underthesea
+gensim
+jieba
+emoji
+streamlit_image_select
