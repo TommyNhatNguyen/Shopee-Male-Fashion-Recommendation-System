@@ -14,10 +14,13 @@
 - Collaborative Filtering is a technique that can filter out items that a user might like on the basis of reactions by similar users.
 - Model: ALS model (Alternating Least Square)
 ### 3. Application Overview:
+
 - **Step 1:** Select a recommendation method
-![image](https://github.com/TommyNhatNguyen/shopee_recommendation/assets/86128966/4a8f8765-2385-48cc-aa72-da6af85565fa)
+![image](https://github.com/TommyNhatNguyen/shopee_recommendation/assets/86128966/220e143e-5fef-47c2-ab8d-9e342dee15e7)
+
 - **Step 2:** Input product name, select number of recommend product
 ![image](https://github.com/TommyNhatNguyen/shopee_recommendation/assets/86128966/ee150ecb-a414-48e8-8a9f-6f5640730291)
+
 - **Step 3:** Click on recommend results to show more recommendation
 ![image](https://github.com/TommyNhatNguyen/shopee_recommendation/assets/86128966/65365ca1-770d-4025-a84b-14bc3127607b)
 
