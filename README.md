@@ -2,7 +2,8 @@
 ![image](https://github.com/TommyNhatNguyen/shopee_recommendation/assets/86128966/a2d111ec-7d04-43ec-9ca5-f37ca0a04682)
 
 **My application link:** [Click here](https://tommynhatnguyen-shopee-recommendation-project-final-ikps3f.streamlit.app/)
-**Source code: ![My code file](https://github.com/TommyNhatNguyen/shopee_recommendation/blob/main/project_final.py)
+
+**Source code:** ![My code file](https://github.com/TommyNhatNguyen/shopee_recommendation/blob/main/project_final.py)
 ### 1. Business Understanding: 
 - **Recommend relevant products to customers is a win-win scenario for both customers and e-commerce retailers**. Customers can easily find products they need in a short-time, and business can increase their revenue by offering relevant products for each customers.
 ### 2. Methods: 
